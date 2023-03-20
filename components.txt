@@ -4,9 +4,24 @@ Prozessor (125,00 €): AMD Ryzen 5 5600
 - Sockel: AM4
 - Speichercontroller: DDR4-3200
 - TDP: 65 W
-Mainboard:
-Arbeitsspeicher:
+
+Mainboard (105,00 €): ASRock B450 Steel Legend AM4
+- Sockel: AM4
+- Formfaktor: ATX
+- Unterstütze Speichermodule: DDR4-3200
+- max. Einzelkapazität: 16 GB
+- 2x PCIe 3.0
+- Anzahl M.2: 1x bis 2280, 1x bis 22110
+
+Arbeitsspeicher (2x 60,00 €): 16 GB Corsair Vengeance RGB PRO DDR4
+- 2x 8 GB
+- DDR4-3200
+- CL16
+
 Grafikkarte:
+- Ausgänge: 1x HDMI 2.1, 3x DP 1.4a
+- Speicher: 8 GB GDDR6
+- TDP: 200 W
 CPU-Kühler:
 Hauptspeicher:
 Netzteil:
