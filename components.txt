@@ -1,4 +1,9 @@
-Prozessor:
+Prozessor (125,00 €): AMD Ryzen 5 5600
+- Kerne: 6
+- Basistakt: 3.50 GHz
+- Sockel: AM4
+- Speichercontroller: DDR4-3200
+- TDP: 65 W
 Mainboard:
 Arbeitsspeicher:
 Grafikkarte:
