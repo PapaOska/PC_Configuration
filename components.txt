@@ -1,0 +1,8 @@
+Prozessor:
+Mainboard:
+Arbeitsspeicher:
+Grafikkarte:
+CPU-Kühler:
+Hauptspeicher:
+Netzteil:
+Gehäuse:
