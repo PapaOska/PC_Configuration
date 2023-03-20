@@ -1,4 +1,5 @@
 Prozessor (125,00 €): AMD Ryzen 5 5600
+https://www.mindfactory.de/product_info.php/AMD-Ryzen-5-5600-6x-3-50GHz-So-AM4-BOX_1447836.html
 - Kerne: 6
 - Basistakt: 3.50 GHz
 - Sockel: AM4
@@ -14,6 +15,7 @@ Mainboard (105,00 €): ASRock B450 Steel Legend AM4
 - Anzahl M.2: 1x bis 2280, 1x bis 22110
 
 Arbeitsspeicher (2x 60,00 €): 16 GB Corsair Vengeance RGB PRO DDR4
+https://www.mindfactory.de/product_info.php/16GB-Corsair-Vengeance-RGB-PRO-schwarz-DDR4-3200-DIMM-CL16-Dual-Kit_1254715.html
 - 2x 8 GB
 - DDR4-3200
 - CL16
@@ -25,6 +27,7 @@ https://www.mindfactory.de/product_info.php/8GB-MSI-Geforce-RTX-3060-Ti-VENTUS-3
 - TDP: 200 W
 - Externe Stromversorgung: 8 Pin
 - Abmessungen: 316mm Lang, 120mm Tief, 42mm Hoch
+- PCIe 4.0
 
 CPU-Kühler:
 Hauptspeicher:
