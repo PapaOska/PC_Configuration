@@ -6,12 +6,13 @@ https://www.mindfactory.de/product_info.php/AMD-Ryzen-5-5600-6x-3-50GHz-So-AM4-B
 - Speichercontroller: DDR4-3200
 - TDP: 65 W
 
-Mainboard (105,00 €): ASRock B450 Steel Legend AM4
+Mainboard (130,00 €): ASRock B550 Pro4
+https://www.mindfactory.de/product_info.php/ASRock-B550-Pro4-AMD-B550-So-AM4-Dual-Channel-DDR-ATX-Retail_1364644.html
 - Sockel: AM4
 - Formfaktor: ATX
 - Unterstütze Speichermodule: DDR4-3200
-- max. Einzelkapazität: 16 GB
-- 2x PCIe 3.0
+- max. Einzelkapazität: 32 GB
+- 1x PCIe 4.0
 - Anzahl M.2: 1x bis 2280, 1x bis 22110
 
 Arbeitsspeicher (2x 60,00 €): 16 GB Corsair Vengeance RGB PRO DDR4
