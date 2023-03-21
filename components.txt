@@ -36,5 +36,6 @@ Hauptspeicher:
 Netzteil (105,00 €): 650 Watt be quiet! Pure Power 12 M Modular 80+
 https://www.mindfactory.de/product_info.php/650-Watt-be-quiet--Pure-Power-12-M-Modular-80--Gold_1480492.html
 - 650 Watt
+- Abmessungen: 150mm Tief, 160mm Lang, 86mm Hoch 
 
 Gehäuse:
