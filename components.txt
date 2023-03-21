@@ -20,14 +20,14 @@ https://www.mindfactory.de/product_info.php/16GB-Corsair-Vengeance-RGB-PRO-schwa
 - DDR4-3200
 - CL16
 
-Grafikkarte (500,00 €): MSI GeForce RTX 3060 Ti Ventus
-https://www.mindfactory.de/product_info.php/8GB-MSI-Geforce-RTX-3060-Ti-VENTUS-3X-OC-LHR-GDDR6--Retail-_1420072.html
+Grafikkarte (360,00 €): MSI GeForce RTX 3060 Ventus 2X OC
+https://www.mindfactory.de/product_info.php/12GB-MSI-GeForce-RTX-3060-Ventus-2X-OC--Retail-_1399586.html
 - Ausgänge: 1x HDMI 2.1, 3x DP 1.4a
-- Speicher: 8 GB GDDR6
-- TDP: 200 W
+- Speicher: 12 GB GDDR6
+- TDP: 170 W
 - Externe Stromversorgung: 8 Pin
 - Abmessungen: 316mm Lang, 120mm Tief, 42mm Hoch
-- PCIe 4.0
+- PCIe 4.0 x16
 
 CPU-Kühler:
 Hauptspeicher:
