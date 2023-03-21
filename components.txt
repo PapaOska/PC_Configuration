@@ -5,6 +5,7 @@ https://www.mindfactory.de/product_info.php/AMD-Ryzen-5-5600-6x-3-50GHz-So-AM4-B
 - Sockel: AM4
 - Speichercontroller: DDR4-3200
 - TDP: 65 W
+- CPU-Kühler
 
 Mainboard (130,00 €): ASRock B550 Pro4
 https://www.mindfactory.de/product_info.php/ASRock-B550-Pro4-AMD-B550-So-AM4-Dual-Channel-DDR-ATX-Retail_1364644.html
@@ -30,8 +31,6 @@ https://www.mindfactory.de/product_info.php/12GB-MSI-GeForce-RTX-3060-Ventus-2X-
 - Abmessungen: 235mm Lang, 124mm Tief, 42mm Hoch
 - PCIe 4.0 x16
 
-CPU-Kühler:
-- Boxed Kühler ist bei Prozessor dabei
 Hauptspeicher:
 Netzteil:
 Gehäuse:
