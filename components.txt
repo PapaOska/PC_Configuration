@@ -32,6 +32,9 @@ https://www.mindfactory.de/product_info.php/12GB-MSI-GeForce-RTX-3060-Ventus-2X-
 - PCIe 4.0 x16
 
 Hauptspeicher:
-Netzteil:
+
+Netzteil (105,00 €): 650 Watt be quiet! Pure Power 12 M Modular 80+
+https://www.mindfactory.de/product_info.php/650-Watt-be-quiet--Pure-Power-12-M-Modular-80--Gold_1480492.html
+- 650 Watt
+
 Gehäuse:
-https://geizhals.de/?cat=hdssd&xf=2028_1000%7E252_1000%7E4832_3%7E4836_7%7E7127_40.04%7E9903_1
