@@ -31,6 +31,7 @@ https://www.mindfactory.de/product_info.php/12GB-MSI-GeForce-RTX-3060-Ventus-2X-
 - PCIe 4.0 x16
 
 CPU-Kühler:
+- Boxed Kühler ist bei Prozessor dabei
 Hauptspeicher:
 Netzteil:
 Gehäuse:
