@@ -26,7 +26,7 @@ https://www.mindfactory.de/product_info.php/12GB-MSI-GeForce-RTX-3060-Ventus-2X-
 - Speicher: 12 GB GDDR6
 - TDP: 170 W
 - Externe Stromversorgung: 8 Pin
-- Abmessungen: 316mm Lang, 120mm Tief, 42mm Hoch
+- Abmessungen: 235mm Lang, 124mm Tief, 42mm Hoch
 - PCIe 4.0 x16
 
 CPU-Kühler:
