@@ -31,7 +31,13 @@ https://www.mindfactory.de/product_info.php/12GB-MSI-GeForce-RTX-3060-Ventus-2X-
 - Abmessungen: 235mm Lang, 124mm Tief, 42mm Hoch
 - PCIe 4.0 x16
 
-Hauptspeicher:
+Hauptspeicher (200,00 €): KIOXIA EXCERIA PRO NVMe SSD
+https://www.notebooksbilliger.de/kioxia+exceria+pro+nvme+ssd+1tb+m2+2280+pcie+40+x4+746639?nbbct=4004_idealo
+- Kapazität: 1 TB
+- Formfaktor: M.2 2280
+- Schnittstelle: PCIe 4.0 x4 - NVMe 1.4
+- Lesen: 7300 MB/s
+- Schreiben: 6400 MB/s
 
 Netzteil (105,00 €): 650 Watt be quiet! Pure Power 12 M Modular 80+
 https://www.mindfactory.de/product_info.php/650-Watt-be-quiet--Pure-Power-12-M-Modular-80--Gold_1480492.html
