@@ -42,7 +42,11 @@ https://www.notebooksbilliger.de/kioxia+exceria+pro+nvme+ssd+1tb+m2+2280+pcie+40
 Netzteil (105,00 €): 650 Watt be quiet! Pure Power 12 M Modular 80+
 https://www.mindfactory.de/product_info.php/650-Watt-be-quiet--Pure-Power-12-M-Modular-80--Gold_1480492.html
 - 650 Watt
-- Abmessungen: 150mm Tief, 160mm Lang, 86mm Hoch 
+- Abmessungen: 150mm Tief, 160mm Lang, 86mm Hoch
+550 Watt be quiet! Pure Power 12 M ATX 3.0
+https://www.mindfactory.de/product_info.php/550-Watt-be-quiet--Pure-Power-12-M-Modular-80--Gold_1480491.html
+- 550 Watt
+- Abmessungen: 150mm Tief, 160mm Lang, 86mm Hoch
 
 Gehäuse (70,00 €): Sharkoon RGB LIT 100
 https://www.mindfactory.de/product_info.php/Sharkoon-RGB-LIT-100-mit-Sichtfenster-Midi-Tower-ohne-Netzteil-schwarz_1345397.html
